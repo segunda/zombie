@@ -2,7 +2,7 @@
 
 ![ZOMBIE](img/zombie200.png)
 
-ZOMBIE is an appreciation token running on Bitcoin Cash blockchain (Simple Ledger Protocol token, SLP NFT and SEP20 SmartBCH token (SmartBCH NFTs are coming in 2022). It is a satire on "moon ivestors" and "airdrop hunters". ZOMBIE token is a part of MAZE Token Underworld. This is not an investment advice or recommendation. The token is a tradable asset, but there is no expectation od profit. Do your own research. No bullshit! Just ZOMBIE.
+ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (Simple Ledger Protocol token, SLP NFT and SEP20 SmartBCH token (SmartBCH NFTs are coming in 2022). It is a satire on "moon ivestors" and "airdrop hunters". ZOMBIE token is a part of MAZE Token Underworld. This is not an investment advice or recommendation. The token is a tradable asset, but there is no expectation od profit. Do your own research. No bullshit! Just ZOMBIE.
 
 Zombiesite: https://zombies.onuniverse.com
 
