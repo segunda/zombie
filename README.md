@@ -2,7 +2,7 @@
 
 ![ZOMBIE](img/zombie200.png)
 
-ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (Simple Ledger Protocol token, SLP NFT and SEP20 SmartBCH token (SmartBCH NFTs are coming in 2022)). This is not an investment advice or recommendation. The token is a tradable asset, but there is no expectation od profit. Do your own research. No bullshit! Just ZOMBIE.
+ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (Simple Ledger Protocol token, SLP NFT and SEP20 SmartBCH token. SmartBCH NFTs are coming in 2022). This is not an investment advice or recommendation. The token is a tradable asset, but there is no expectation od profit. Do your own research. No bullshit! Just ZOMBIE.
 
 Zombiesite: https://zombies.onuniverse.com
 
@@ -18,7 +18,7 @@ Total fixed supply: 1000000000
 
 Decimals: 0
 
-Created August 17, 2021 by B_S_Z.
+Created August 17, 2021
 
 ZOMBIE horde - [SmartScan Explorer](https://www.smartscan.cash/address/0x80453ACDfE0073D6743B27D72e06F48777EeAd80)
 
@@ -48,9 +48,9 @@ Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/0
 
 ### Trade ZOMBIE token
 
-[MISTswap](https://app.mistswap.fi/swap) DEX - swap BCH/ZOMBIE, ZOMBIE/VANDALS, MAZE/ZOMBIE.
+[MISTswap](https://app.mistswap.fi/swap) DEX - swap BCH/ZOMBIE, ZOMBIE/VANDALS, MAZE/ZOMBIE
 
-[MISTswap](https://analytics.mistswap.fi/tokens/0x80453acdfe0073d6743b27d72e06f48777eead80) Analytics
+[MISTswap](https://analytics.mistswap.fi/tokens/0x80453ACDfE0073D6743B27D72e06F48777EeAd80) Analytics
 
 [Marketcap](https://www.marketcap.cash/token/ZOMBIE)
 
@@ -68,7 +68,7 @@ Total fixed supply: 1000000000
 
 Decimals: 0
 
-Created March 20, 2020 by B_S_Z
+Created March 20, 2020
 
 ZOMBIE horde - [SLP Explorer](https://simpleledger.info/#token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca)
 
