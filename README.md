@@ -38,7 +38,7 @@ Vesting Wallet on [SmartScan Explorer](https://www.smartscan.cash/address/0x19C1
 
 ### ZOMBIE token faucet info
 
-ZOMBIE [faucet](https://zombiefaucet.herokuapp.com). Claim 500 ZOMBIE 1 time per day (every 24h and 1 second).
+ZOMBIE [faucet](https://mazetoken.github.io/zombie/faucet). Claim 500 ZOMBIE 1 time per day.
 
 Alternatively open [OneCLickDapp](https://oneclickdapp.com/madrid-blitz) to interact with ZombieFaucet - connect MetaMask, click on Write tab, click on claimZOMBIE(address), paste your address in the recipient field and click Submit button. It is onchain, so you need BCH to pay for gas. Confirm transaction in MetaMask. You have been zombiefied - Result success. If you click on the Read tab lockTime(address) and paste your address in the address field, click submit, you get a number at the bottom - timestamp. You can copy the number and paste it to [Unixstamp](https://www.unixtimestamp.com), click convert and you get exact time you can claim again.
 
