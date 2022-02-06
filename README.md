@@ -1,10 +1,18 @@
-## ZOMBIE
+## ZOMBIE Token
 
 ![ZOMBIE](img/zombie200.png)
 
-ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (Simple Ledger Protocol token, SLP NFT and SEP20 SmartBCH token. SmartBCH NFTs are coming in 2022). This is not an investment advice or recommendation. The token is a tradable asset, but there is no expectation od profit. Do your own research. No bullshit! Just ZOMBIE.
+ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). ZOMBIE token has a fixed totall supply and had no pre-sale. 90 million ZOMBIE (on SmartBCH) is locked in the [Vesting Wallet](https://github.com/mazetoken/zombie/blob/main/contracts/VestingWallet.sol) since November 9, 2021. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release ZOMBIE tokens partially.
+
+ZOMBIE horde is moving constantly. The token is a tradable asset, but there is no expectation od profit. Do your own research.
+
+ZOMBIE SmartBCH NFTs are coming in 2022
+
+_No bullshit! Just ZOMBIE._
 
 Zombiesite: https://zombies.onuniverse.com
+
+----------------------------------------------------------------------------------------------
 
 ### ZOMBIE SmartBCH SEP20 token
 
@@ -20,19 +28,17 @@ Decimals: 0
 
 Created August 17, 2021
 
-ZOMBIE horde - [SmartScan Explorer](https://www.smartscan.cash/address/0x80453ACDfE0073D6743B27D72e06F48777EeAd80)
+ZOMBIE horde Explorer - [SmartScan](https://www.smartscan.cash/address/0x80453ACDfE0073D6743B27D72e06F48777EeAd80)
 
 ZOMBIE [genesis transaction](https://www.smartscan.cash/transaction/0x5ecc9a7676c4991989a6350e461c1ce32de15679eda968ca078ed905b26084de)
 
-ZOMBIE [contract](https://github.com/mazetoken/mazetoken.github.io/blob/master/zombie/contracts/SmartSLP_v1.sol) was created with [SmartSLP Manager](https://smartbch.fountainhead.cash/smartslp/)
+ZOMBIE [contract](https://github.com/mazetoken/zombie/blob/main/contracts/SmartSLP_v1.sol) was created with [SmartSLP Manager](https://smartbch.fountainhead.cash/smartslp/)
 
 ZOMBIE contract ownership is [renounced](https://www.smartscan.cash/transaction/0x31d185d2a1136a3da6ab2352c1490315ffcc47fafea4abe2d503d5524188ff5d) to 0x0 address
 
-900000000 ZOMBIE is locked in the [Vesting Wallet](https://github.com/mazetoken/mazetoken.github.io/blob/master/zombie/contracts/VestingWallet.sol) since November 9, 2021. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release ZOMBIE tokens partially.
-
 Vesting Wallet contract address: 0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb
 
-Vesting Wallet on [SmartScan Explorer](https://www.smartscan.cash/address/0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb)
+Vesting Wallet Explorer [SmartScan](https://www.smartscan.cash/address/0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb)
 
 [One Click Dapp](https://oneclickdapp.com/scholar-prosper) to interact with Vesting Wallet.
 
@@ -54,9 +60,11 @@ Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/0
 
 [Marketcap](https://www.marketcap.cash/token/ZOMBIE)
 
+_This is not an investment advice or recommendation._
+
 ----------------------------------------------------------------------------------------------
 
-### ZOMBIE Bitcoin Cash Simple Ledger Protocol token
+### ZOMBIE Simple Ledger Protocol token
 
 Name: ZOMBIE
 
@@ -70,13 +78,15 @@ Decimals: 0
 
 Created March 20, 2020
 
-ZOMBIE horde - [SLP Explorer](https://simpleledger.info/#token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca)
+ZOMBIE horde SLP [Explorer](https://slpexplorer.fountainhead.cash/#token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca)
 
-Exchange - [Memo](https://memo.cash/token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca?for-sale)
+BCHD [Explorer](https://explore.cash/mainnet/tx/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca)
+
+Exchange - [Memo.cash](https://memo.cash/token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca?for-sale)
+
+_This is not an investment advice or recommendation._
 
 -----------------------------------------------------------------------------------------------
-
-Simple Zombie Protocol by [MAZE token](https://mazetoken.github.io)
 
 [Telegram](https://t.me/mazetokens)
 
