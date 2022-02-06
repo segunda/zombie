@@ -2,7 +2,7 @@
 
 ![ZOMBIE](img/zombie200.png)
 
-ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). ZOMBIE token has a fixed totall supply and had no pre-sale. 90 million ZOMBIE (on SmartBCH) is locked in the [Vesting Wallet](https://github.com/mazetoken/zombie/blob/main/contracts/VestingWallet.sol) since November 9, 2021. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release ZOMBIE tokens partially.
+ZOMBIE is satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). ZOMBIE token has a fixed totall supply and had no pre-sale. 900 million ZOMBIE (on SmartBCH) is locked in the [Vesting Wallet](https://github.com/mazetoken/zombie/blob/main/contracts/VestingWallet.sol) since November 9, 2021. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release ZOMBIE tokens partially.
 
 ZOMBIE horde is moving constantly. The token is a tradable asset, but there is no expectation od profit. Do your own research.
 
