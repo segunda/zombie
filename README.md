@@ -54,7 +54,7 @@ Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/0
 
 ### Trade ZOMBIE token
 
-[MISTswap](https://app.mistswap.fi/swap) DEX - swap BCH/ZOMBIE, ZOMBIE/VANDALS, MAZE/ZOMBIE
+[MISTswap](https://app.mistswap.fi/swap) DEX - liquidity pools: BCH/ZOMBIE, ZOMBIE/VANDALS, MAZE/ZOMBIE
 
 [MISTswap](https://analytics.mistswap.fi/tokens/0x80453ACDfE0073D6743B27D72e06F48777EeAd80) Analytics
 
