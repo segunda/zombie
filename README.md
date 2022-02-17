@@ -58,7 +58,11 @@ Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/0
 
 [MISTswap](https://analytics.mistswap.fi/tokens/0x80453ACDfE0073D6743B27D72e06F48777EeAd80) Analytics
 
+[Swap Cat](https://swap.cat) OTC DEX - buy or sell ZOMBIE for BCH (WBCH)
+
 [Marketcap](https://www.marketcap.cash/token/ZOMBIE)
+
+[Dex Screener](https://dexscreener.com/smartbch/0x8e5edb62775c1cd003804ec2a8242e5e0393876b)
 
 _This is not an investment advice or recommendation._
 
