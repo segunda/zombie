@@ -1,10 +1,10 @@
 ## 💩 Token
 
-💩 is a satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). 💩 token has a fixed totall supply and had no pre-sale. 1 million ZOMBIE (on SmartBCH) is locked in the [Vesting Wallet](https://github.com/segunda/zombie/blob/main/contracts/VestingWallet.sol) since April 1, 2022. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release 💩 tokens partially.
+💩 is a satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). 💩 token has a fixed totall supply and had no pre-sale. 1 million 💩 (on SmartBCH) is locked in the [Vesting Wallet](https://github.com/segunda/zombie/blob/main/contracts/VestingWallet.sol) since April 1, 2022. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release 💩 tokens partially.
 
+Forked from and rebranded from ZOMBIE Token. 
 
-
-💩 horde is moving constantly. The token is a tradable asset, but there is no expectation od profit. Do your own research.
+💩  The token is a tradable asset, but there is no expectation od profit. Do your own research.
 
 _XXX._
 
@@ -64,27 +64,31 @@ _This is not an investment advice or recommendation._
 
 ----------------------------------------------------------------------------------------------
 
-### ZOMBIE Simple Ledger Protocol token
+### 💩 Simple Ledger Protocol token
 
-Name: ZOMBIE
+Name: 💩
 
-Symbol: ZOMBIE
+Symbol: 💩
 
 Token id: be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca
 
 Total fixed supply: 1000000000
 
-Decimals: 0
+Decimals: 2
 
-Created March 20, 2020
+💩 once had it's own Faucet and Telegram Bot, unfortunately Large Amounts of 💩 have gone lost in the great Token Wars on Memo. 
+I'm only HODL-ing a small amount for sentimental reasons.
+Though it never reached the mythical status of a Token like 🍺, 💩 was the first Token that used just a UTF-8 symbol as Name and Symbol. 
+The improvement of expression was very disruptive at the time. 
 
-ZOMBIE horde SLP [Explorer](https://slpexplorer.fountainhead.cash/#token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca)
 
-BCHD [Explorer](https://explore.cash/mainnet/tx/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca)
+💩 horde SLP [Explorer](https://slpexplorer.fountainhead.cash/#token/65a9499c560637cb31b0cde646eb1e3ae5899e78d03c1556a67f8645ecee5751)
 
-Exchange - [Memo.cash](https://memo.cash/token/be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca?for-sale)
+BCHD [Explorer](https://explore.cash/mainnet/tx/65a9499c560637cb31b0cde646eb1e3ae5899e78d03c1556a67f8645ecee5751)
 
-_This is not an investment advice or recommendation._
+Exchange - [Memo.cash](https://memo.cash/token/65a9499c560637cb31b0cde646eb1e3ae5899e78d03c1556a67f8645ecee5751?for-sale)
+
+_This is not an investment advice or recommendation. Give a 💩._
 
 -----------------------------------------------------------------------------------------------
 
