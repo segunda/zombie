@@ -70,8 +70,6 @@ Symbol: 💩
 
 Token id: be8ccb8c312c2dd9aa82aa2327824fc0d54faa309b503582030fd910c4f018ca
 
-Total fixed supply: 1000000000
-
 Decimals: 2
 
 💩 once had it's own Faucet and Telegram Bot, unfortunately Large Amounts of 💩 have gone lost in the great Token Wars on Memo. 
