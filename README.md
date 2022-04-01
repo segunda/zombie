@@ -1,12 +1,12 @@
 ## 💩 Token
 
-💩 is a satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). 💩 token has a fixed totall supply and had no pre-sale. 1 million 💩 (on SmartBCH) is locked in the [Vesting Wallet](https://github.com/segunda/zombie/blob/main/contracts/VestingWallet.sol) since April 1, 2022. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release 💩 tokens partially.
+💩 is a satire and appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token, SLP NFT and SEP20 - SmartBCH token). 💩 token has a fixed total supply and had no pre-sale. 
 
 Forked from and rebranded from ZOMBIE Token. 
 
 💩  The token is a tradable asset, but there is no expectation od profit. Do your own research.
 
-_XXX._
+_Give a 💩._
 
 Zombiesite: https://zombies.onuniverse.com
 
@@ -26,7 +26,7 @@ Decimals: 2
 
 Created March 31, 2022
 
-💩 horde Explorer - [SmartScan](https://www.smartscan.cash/address/0x80453ACDfE0073D6743B27D72e06F48777EeAd80)
+💩 horde Explorer - [SmartScan](https://www.smartscan.cash/address/0x8E8A9647853E2E8e096B5DEdb128b788990761dB)
 
 💩 [genesis transaction](https://www.smartscan.cash/transaction/0x5ecc9a7676c4991989a6350e461c1ce32de15679eda968ca078ed905b26084de)
 
@@ -38,11 +38,9 @@ Vesting Wallet contract address: 0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb
 
 Vesting Wallet Explorer [SmartScan](https://www.smartscan.cash/address/0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb)
 
-[One Click Dapp](https://oneclickdapp.com/scholar-prosper) to interact with Vesting Wallet.
-
 ### 💩 token faucet info
 
-💩 [faucet](https://segunda.github.io/segunda/faucet). Claim 500 💩 1 time per day.
+💩 [faucet](https://segunda.github.io/segunda/faucet). Claim 💩 1 time per day.
 
 💩 Faucet contract: 0xE6fBa59BDf1EafA8b1B5ad57D9C4A354CA55D756
 
@@ -60,7 +58,7 @@ Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/0
 
 [Dex Screener](https://dexscreener.com/smartbch/0x8e5edb62775c1cd003804ec2a8242e5e0393876b)
 
-_This is not an investment advice or recommendation._
+_This is not an investment advice or recommendation. Give a 💩_
 
 ----------------------------------------------------------------------------------------------
 
